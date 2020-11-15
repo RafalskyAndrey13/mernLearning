@@ -1,0 +1,6 @@
+{
+    "jwtSecret": "Andrii Rafalskyi",
+    "baseURL": "http://localhost:5000",
+    "port": 5000,
+    "mongoURI": "mongodb+srv://AndriiRafalskyi:1302Fylhtq@@cluster0.6yvab.mongodb.net/app?retryWrites=true&w=majority"
+}
